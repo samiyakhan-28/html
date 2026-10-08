@@ -1,2 +1,2 @@
 # git_demo
-Configured git and pushed a project successfully.
+Configured git and pushed my first html project successfully.

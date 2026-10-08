@@ -1,2 +1,2 @@
-# html
-This is the first html trial project.
+# git_demo
+Configured git and pushed a project successfully.
